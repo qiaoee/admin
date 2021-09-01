@@ -1,4 +1,4 @@
-<div align="center"> <a href="https://github.com/anncwb/vue-vben-admin"> <img alt="VbenAdmin Logo" width="200" height="200" src="https://anncwb.github.io/anncwb/images/logo.png"> </a> <br> <br>
+<div align="center"> <a href="#"> <img alt="VbenAdmin Logo" width="200" height="200" src="https://anncwb.github.io/anncwb/images/logo.png"> </a> <br> <br>
 
 [![license](https://img.shields.io/github/license/anncwb/vue-vben-admin.svg)](LICENSE)
 
@@ -23,11 +23,11 @@ Vue Vben Admin is a free and open source middle and back-end template. Using the
 
 ## 预览
 
-- [vue-vben-admin](https://vvbin.cn/next/) - Full version Chinese site
+<!-- - [vue-vben-admin](https://vvbin.cn/next/) - Full version Chinese site
 - [vue-vben-admin-gh-pages](https://anncwb.github.io/vue-vben-admin/) - Full version of the github site
 - [vben-admin-thin-next](https://vvbin.cn/thin/next/) - Simplified Chinese site
 - [vben-admin-thin-gh-pages](https://anncwb.github.io/vben-admin-thin-next/) -Simplified github site
-
+ -->
 Test account: vben/123456
 
 <p align="center">
@@ -151,19 +151,4 @@ Support modern browsers, not IE
 
 [@Vben](https://github.com/anncwb)
 
-## Donate
 
-If you think this project is helpful to you, you can help the author buy a cup of coffee to show your support!
-
-![donate](https://anncwb.github.io/anncwb/images/sponsor.png)
-
-<a style="display: block;width: 100px;height: 50px;line-height: 50px; color: #fff;text-align: center; background: #408aed;border-radius: 4px;" href="https://www.paypal.com/paypalme/cvvben">Paypal Me</a>
-
-## Discord
-
-- [github discussions](https://github.com/anncwb/vue-vben-admin/discussions)
-- [Discord](https://discord.gg/8GuAdwDhj6)
-
-## License
-
-[MIT © Vben-2020](./LICENSE)
